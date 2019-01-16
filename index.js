@@ -13,7 +13,7 @@ window.onload = function () {
 const BG_COLOR = "#bbb";
 const N_GRID_PIXELS = 20;
 
-const N_GRIDS_WIDE = 4;
+const N_GRIDS_WIDE = 8;
 const GRID_GAP_PIXELS = 10;
 
 let pixelSize;
